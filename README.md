@@ -1,7 +1,7 @@
 **# ** **Restaurant Sales Data Analysis (Excel)**  
 This project analyzes restaurant sales data using Microsoft Excel to uncover insights on revenue trends, product performance, and customer behavior.  
 ## Dashboard  
-![Dashboard](images/dashboard.png)  
+![Dashboard](images/Dashboard.png)  
 ## Business Questions  
 1. Most Preferred Payment Method  
 2. Most Selling Product (by Quantity & Revenue)  
