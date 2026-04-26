@@ -1,4 +1,4 @@
-**Restaurant Sales Data Analysis (Excel)**  
+## **Restaurant Sales Data Analysis (Excel)**  
 This project analyzes restaurant sales data using Microsoft Excel to uncover insights on revenue trends, product performance, and customer behavior.  
 ## Dashboard  
 ![Dashboard](images/Dashboard.png)  
